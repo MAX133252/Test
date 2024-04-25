@@ -1,0 +1,17 @@
+.settings {
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    border-bottom: 10px;
+    border: solid 10px black;
+    margin: 0 auto;
+    width: 320px;
+}
+h2 {
+    text-align: center;
+    margin-top: 40px;
+    color: black;
+}
+.back {
+    text-align: right;
+    margin-top: -16%;
+}
